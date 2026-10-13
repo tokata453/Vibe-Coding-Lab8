@@ -3,9 +3,9 @@
 3. SILLY THING AROUND                                                           Luminary099/THE_LUNAR_LANDING.agc                           Line-246
 4. NOW LOOK WHERE YOU ENDED UP                                                  Luminary099/THE_LUNAR_LANDING.agc                           Line-317
 5. TEMPORARY, I HOPE HOPE HOPE                                                  Luminary099/LUNAR_LANDING_GUIDANCE_EQUATIONS.agc            Line-179-180
-6. NUMERO MYSTERIOSO                                                            Luminary099/THE_LUNAR_LANDING.agc                           Line-666
+6. NUMERO MYSTERIOSO                                                            Luminary099/LUNAR_LANDING_GUIDANCE_EQUATIONS.agc            Line-666
 7. NO ROOM IN THE INN                                                           Luminary099/WAITLIST.agc                                    Line-335-339
-8. TRASHY LITTLE SUBROUTINES                                                    Luminary099/THE_LUNAR_LANDING.agc                           Line-1375
+8. TRASHY LITTLE SUBROUTINES                                                    Luminary099/LUNAR_LANDING_GUIDANCE_EQUATIONS.agc            Line-1375
 9. COME AGAIN SOON                                                              Luminary099/BURN_BABY_BURN--MASTER_IGNITION_ROUTINE.agc     Line-925
 10. DO NOT USE GOPROG2 OR ENEMA WITHOUT CONSULTING POOH PEOPLE.                 Luminary099/FRESH_START_AND_RESTART.agc                     Line-353
 
